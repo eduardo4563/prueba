@@ -1,0 +1,246 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+
+}
+
+/* ------------- Mis variables----------- */
+:root {
+    --first-color: #6434d1;
+    --second-color: #9e7fe2;
+    --shadow-color: #FF9E9E;
+    --shadow-color-light: white;
+    --color_banner_primero:#FF0080;
+}
+/* ----------------- Mis Stylos--------------------- */
+footer a {
+    color: white;
+}
+
+footer a :hover {
+    color: #9e7fe2;
+}
+
+.colores {
+    color: black;
+
+}
+.footer {
+    background-color:#F2EFEF;
+   
+
+}
+
+
+.ul {
+    list-style: none;
+
+}
+
+.ro {
+    display: flex;
+   
+    
+}
+.conta {
+    max-width: 1000px;
+    margin: auto;
+    padding:25px 0px;
+    
+    
+    
+}
+.footer-col h4::before {
+    content: '';
+    position: absolute;
+    left: 3;
+    bottom: -10px;
+    background-color: black;
+    height: 2px;
+    box-sizing: border-box;
+    width: 50px;
+}
+
+
+@media (max-width:700px) {
+    .ro{
+        flex-wrap: wrap;
+        margin-top: -45px;
+    }   
+    
+    .conta{
+        text-align: center;
+        
+    }
+    .ul{
+        padding: 0;
+        
+    }
+    .footer-col h4::before {
+        content: '';
+        position: absolute;
+        left: 3;
+        bottom: -10px;
+        background-color: black;
+        height: 2px;
+        box-sizing: border-box;
+        width: 50px;
+    }
+    .divim{
+        margin-left: 50px;
+        margin-right: 20px;
+    }
+    .conta {
+        max-width: 1250px;
+        margin: auto;
+        padding: 10px 0px;
+    }
+    .divim,.d{
+        width: 250px;
+        padding-top: 50px;
+    }
+    
+    
+}
+
+.footer-col {
+    width: 25%;
+    padding: 0 15px;
+
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    color:black;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+    font-weight: 500;
+    position: relative;
+}
+.p {
+    color:black;
+    text-transform: capitalize;
+    position: relative;
+}
+
+
+
+.footer-col ul li:not(:last-child) {
+    margin-bottom: 10px;
+}
+.letra-subs{
+    color: var(--color_banner_primero);
+
+    font-weight: bold;
+    opacity: 0.4;
+    font-size: 35px;
+}
+
+.footer-col,
+.ul li a {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: black;
+    display: block;
+    transition: all 0.3s ease;
+}
+
+.footer-col .ul li a:hover {
+    color: var(--shadow-color);
+    padding-left: 8px;
+    
+
+}
+.ul{
+    padding-left: 20px;
+}
+.footer-col .social-links a {
+    display: inline-block;
+    height: 40px;
+    width: 40px;
+    
+    margin: 0 10px 10px 0;
+    text-align: center;
+    line-height: 40px;
+    border-radius: 50%;
+    /*color: #24262b;
+    transition: all 0.5s ease;*/
+
+}
+#fa-facebook-f{
+    text-align: center;
+    color: white;
+    background-color: #3b5998;
+    /*box-shadow: 0px 3px 10px rgba(0,0,0,.25);*/
+    padding: 9px;
+    width:35px;
+    border-radius: 35%;
+    font-weight: 900;
+}
+#fa-facebook-f:hover{
+    background-color: #3b5998;
+    color: white;
+    border-radius: 50px;
+}
+#fa-linkedin-in{
+    color: white;
+    background-color:#3b83bd ;
+    padding: 9px;
+    font-weight: bold;
+    width: 35px;
+    border-radius: 35%;
+    /*box-shadow: 0px 3px 10px rgba(0,0,0,.25);*/
+}
+#fa-linkedin-in:hover{
+    color: white;
+    background-color:#3b83bd ;
+    border-radius: 50px;
+}
+
+#fa-instagram{
+    background: #d6249f;
+    background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
+    /*box-shadow: 0px 3px 10px rgba(0,0,0,.25);*/
+    padding: 9px;
+    width: 35px;
+    border-radius: 35%;
+    
+}
+#fa-instagram:hover{
+    color: white;
+    border-radius: 50px;
+}
+#fa-tiktok{
+    background-color: black;
+    /*box-shadow: 0px 3px 10px rgba(0,0,0,.25);*/
+    padding: 9px;
+    width: 35px;
+    border-radius: 35%;
+}
+#fa-tiktok:hover{
+    background-color: black;
+    color: white;
+    border-radius: 50px;
+}
+.p {
+    font-size: 16px;
+    text-transform: capitalize;
+    color: #ffffff;
+    text-decoration: none;
+    font-weight: 300;
+    color: black;
+    display: block;
+}
+
+/* Medium devices (tablets, 767px and up) */
+@media (max-width: 767px) {
+    .footer-col {
+        width: 100%;
+    }  
+}
+

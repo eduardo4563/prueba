@@ -330,3 +330,9 @@ header.abajo ul li a {
     min-width: 180px;
   }
 
+@media (max-width:700px) {
+    .mobile-modal-footer{
+        margin-top: -55px;
+        
+    }
+}

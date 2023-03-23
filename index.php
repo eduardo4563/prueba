@@ -8,7 +8,7 @@
     <title>Document</title>
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
     <link rel="stylesheet" href="css/footer.css">
-    <link rel="stylesheet" href="css/sytlos.css?210323">
+    <link rel="stylesheet" href="css/sytlos.css?20323">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.2.1/css/all.min.css">
 
 </head>
@@ -51,7 +51,7 @@
         </div>
         <div class="carousel-inner">
             <div class="carousel-item active">
-                <div class="card mb-3 medida" >
+                <div class="card mb-3 medida">
                     <div class="row g-0 responsi">
                         <div class="col-md-4">
                             <img src="img/lapto.webp" class="res1 rounded-start" alt="...">
@@ -60,14 +60,14 @@
                             <div class="card-body">
                                 <h5 class="card-title">Marketing Digital</h5>
                                 <p class="card-text">En Digimedia ayudaremos a mejorar la imagen de tu marca. Asimismo, a incrementar y conquistar los corazones de tu target.</p>
-                                <a href="View/marketing-digital.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                <a href="View/marketing-digital.php"><button class="bton_card">Ver m&aacute;s</button></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="card mb-3 medida" >
+                <div class="card mb-3 medida">
                     <div class="row g-0">
                         <div class="col-md-4">
                             <img src="img/imagen_coorporativa.webp" class="res2 rounded-start" alt="...">
@@ -83,7 +83,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="card mb-3 medida" >
+                <div class="card mb-3 medida">
                     <div class="row g-0">
                         <div class="col-md-4">
                             <img src="img/redes sociales gestiones.webp" class="res3 rounded-start" alt="...">
@@ -92,7 +92,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Gesti&oacute;n de Redes Sociales</h5>
                                 <p class="card-text">En Digimedia te ayudamos , con el posicionamiento en el mundo online, y con el control que debes tener en tus redes sociales.</p>
-                                <a href="View/rd-sociales.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                <a href="View/rd-sociales.php"><button class="bton_card">Ver m&aacute;s</button></a>
                             </div>
                         </div>
                     </div>
@@ -120,9 +120,9 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Marketing Digital</h5>
                                     <p class="card-text">En Digimedia ayudaremos a mejorar la imagen de tu marca. Asimismo, a incrementar y conquistar los corazones de tu target.
-                                       </p>
+                                    </p>
                                     <div class="tid">
-                                        <a href="View/marketing-digital.php" ><button class="bton_card"> Ver m&aacute;s</button></a>
+                                        <a href="View/marketing-digital.php"><button class="bton_card"> Ver m&aacute;s</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -130,14 +130,14 @@
                     </div>
                 </div>
                 <div class="carousel-item">
-                    <div class="card mb-3 mes"> 
+                    <div class="card mb-3 mes">
                         <div class="row g-0">
                             <div class="col-md-8">
-                                <img class="image alt="Imagen corporativa" src="img//imagen_coorporativa.webp">
+                                <img class="image alt=" Imagen corporativa" src="img//imagen_coorporativa.webp">
                                 <div class="card-body">
                                     <h5 class="card-title">Imagen Corporativa</h5>
                                     <p class="card-text">En Digimedia trabajamos en el diseño de tu imagen corporativa para que se convierta en una gran marca.</p>
-                                    <a href="View/img-corp.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                    <a href="View/img-corp.php"><button class="bton_card">Ver m&aacute;s</button></a>
                                 </div>
                             </div>
                         </div>
@@ -151,7 +151,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Gesti&oacute;n de Redes Sociales</h5>
                                     <p class="card-text">En Digimedia te ayudamos , con el posicionamiento en el mundo online, y con el control que debes tener en tus redes sociales.</p>
-                                    <a href="View/rd-sociales.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                    <a href="View/rd-sociales.php"><button class="bton_card">Ver m&aacute;s</button></a>
                                 </div>
                             </div>
                         </div>
@@ -194,17 +194,17 @@
                             <div class="card-body">
                                 <h5 class="card-title">Dise&ntilde;o Web</h5>
                                 <p class="card-text">En Digimedia te ayudamos con el desarrollo del diseño web de tu marca. Digimedia, se especializa en el diseño de sitios web modernos, fáciles de usar y que reflejen la marca de su empresa. Trabajamos con usted para entender su negocio y lo que quiere lograr con su sitio web.</p>
-                                <a href="View/ds-web.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                <a href="View/ds-web.php"><button class="bton_card">Ver m&aacute;s</button></a>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="card mb-3 medida" id="media1" >
+                <div class="card mb-3 medida" id="media1">
                     <div class="row g-0">
                         <div class="col-md-4">
-                            <img src="img/crea tu marca.webp" class="res2 rounded-start " id="es"  alt="...">
+                            <img src="img/crea tu marca.webp" class="res2 rounded-start " id="es" alt="...">
                         </div>
                         <div class="col-md-8">
                             <div class="card-body">
@@ -217,7 +217,7 @@
                 </div>
             </div>
             <div class="carousel-item">
-                <div class="card mb-3 medida" id="media2" >
+                <div class="card mb-3 medida" id="media2">
                     <div class="row g-0">
                         <div class="col-md-4">
                             <img src="img/diseño grafico.webp" class="res3 rounded-start " id="es" alt="...">
@@ -226,7 +226,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">Dise&ntilde;o Gr&aacute;fico</h5>
                                 <p class="card-text">En Digimedia te ayudamos y realizamos coaching en el diseño gráfico de las piezas publicitarias. Nuestro servicio de diseño gráfico publicitario y digital, se centra en buscar crear piezas que vallan acorde con la personalidad y el mensaje de tu marca.</p>
-                                <a href="View/rd-sociales.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                <a href="View/rd-sociales.php"><button class="bton_card">Ver m&aacute;s</button></a>
                             </div>
                         </div>
                     </div>
@@ -255,7 +255,7 @@
                                     <h5 class="card-title">Dise&ntilde;o Web</h5>
                                     <p class="card-text">En Digimedia te ayudamos con el desarrollo del diseño web de tu marca. Digimedia, se especializa en el diseño de sitios web modernos, fáciles de usar y que reflejen la marca de su empresa. Trabajamos con usted para entender su negocio y lo que quiere lograr con su sitio web.</p>
                                     <div class="tid">
-                                        <a href="View/ds-web.php" ><button class="bton_card"> Ver m&aacute;s</button></a>
+                                        <a href="View/ds-web.php"><button class="bton_card"> Ver m&aacute;s</button></a>
                                     </div>
                                 </div>
                             </div>
@@ -266,11 +266,11 @@
                     <div class="card mb-3 mes1">
                         <div class="row g-0">
                             <div class="col-md-8">
-                                <img class="image alt="Imagen corporativa" src="img/crea tu marca.webp">
+                                <img class="image alt=" Imagen corporativa" src="img/crea tu marca.webp">
                                 <div class="card-body">
                                     <h5 class="card-title">Crea tu Marca</h5>
                                     <p class="card-text">En Digimedia te ayudamos a desarrollar tu marca desde cero, único y diferenciado para que tenga las máximas garantías de éxito, construimos la identidad visual de tu marca con el objetivo de proporcionarle alma propia, despertar sensaciones y crear conexiones..</p>
-                                    <a href="View/marca.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                    <a href="View/marca.php"><button class="bton_card">Ver m&aacute;s</button></a>
                                 </div>
                             </div>
                         </div>
@@ -284,7 +284,7 @@
                                 <div class="card-body">
                                     <h5 class="card-title">Dise&ntilde;o Gr&aacute;fico</h5>
                                     <p class="card-text">En Digimedia te ayudamos y realizamos coaching en el diseño gráfico de las piezas publicitarias. Nuestro servicio de diseño gráfico publicitario y digital, se centra en buscar crear piezas que vallan acorde con la personalidad y el mensaje de tu marca.</p>
-                                    <a href="View/rd-sociales.php" ><button class="bton_card">Ver m&aacute;s</button></a>
+                                    <a href="View/rd-sociales.php"><button class="bton_card">Ver m&aacute;s</button></a>
                                 </div>
                             </div>
                         </div>
@@ -301,6 +301,32 @@
             </button>
         </div>
     </div>
+    <div class="pt-4"></div>
+    <!--primer aviso-->
+    <div class="con-anun">
+        <div class="parrafos">
+            <h5 class="titulo">¿Quieres inicar tu empresa digital?</h5>
+            <p class="texto"><span class="negrita">EN DIGIMEDIA</span> te brindamos asesor&iacute;a personalizada para emprender o hacer crecer tu negocio</p>
+        </div>
+        <div class="bota">
+            <a href="View/contacto.php" class="boton__" id="be">Contactanos</a>
+        </div>
+    </div>
+
+    <div class="pt-4"></div>
+
+    <div class="con-anun1">
+        <div class="parrafos1">
+            <h5 class="titulo1">¿Tienes alguna duda sobre nuestros servicios?</h5>
+            <p class="ten">¡Tenemos la respuesta!</p>
+            <p class="texto1">Echa un vistazo a nuestra secci&oacute;n de <span class="negrita"> Preguntas Frecuentes</span> donde encontrar&aacute;s respuestas a las preguntas m&aacute;s comunes .</p>
+            <p class="infer">Haz clic en el boton "Ver preguntas Frecuentes" para acceder a esta informaci&oacute;n valiosa.</p>
+        </div>
+        <div class="bota1">
+            <a href="View/preguntas.php" class="boton__1">Preguntas Frecuentes</a>
+        </div>
+    </div>
+    <div class="pt-5"></div>
     <?php include 'asstes/footer.html' ?>
 
 </body>

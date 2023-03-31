@@ -24,20 +24,20 @@
     width: 100%;
     height: 100%;
 }
- .contenedors{
-    margin-left: 10%;
-    padding-top: 30%;
+.contenedors{
+    margin-left:5%;
+    padding-top: 15%;
     
  
  }
  .tit{
-    font-size: 4em;
+    font-size: 6em;
     font-weight: 800;
     color:var(--color_banner_primero1);
     
  }
  .sub{
-    font-size: 1.5em;
+    font-size: 2em;
     color: white;
  }
  .boton_con{
@@ -164,6 +164,20 @@
         font-size: 150%;
         color: white;
     }
+    .contenedors{
+        margin-left:5%;
+        padding-top: 30%; 
+    }
+    .tit{
+        font-size: 5em;
+        font-weight: 800;
+        color:var(--color_banner_primero1);
+        
+    }
+    .sub{
+    font-size: 1.5em;
+    color: white;
+    }
     .cont2{
         background-color: rgba(41,41,41,0.4) ;
         width: 90%;
@@ -195,6 +209,20 @@
     .parrafo{
         font-size: 100%;
         color: white;
+    }
+    .contenedors{
+        margin-left:5%;
+        padding-top: 25%; 
+    }
+    .tit{
+        font-size: 3em;
+        font-weight: 800;
+        color:var(--color_banner_primero1);
+        
+    }
+    .sub{
+    font-size: 1.5em;
+    color: white;
     }
     .cont2{
         background-color: rgba(41,41,41,0.4) ;
